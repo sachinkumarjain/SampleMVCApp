@@ -4,7 +4,7 @@ using MvcApplication1.Controllers;
 
 namespace SampleMVCApp.Tests.Controllers
 {
-    //Tests
+    //Tests - test nuget pkg
 
     [TestClass]
     public class HomeControllerTest
